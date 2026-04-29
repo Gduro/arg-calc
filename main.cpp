@@ -6,6 +6,7 @@ void usage(char *programName) {
     printf("Available operations:\n");
     printf("\tadd\n");
     printf("\tsub\n");
+    printf("\tdiv\n");
     printf("\tmul\n");
     printf("\n");
 }
